@@ -1,0 +1,19 @@
+.text-decorator.none{
+    text-decorator: none
+}
+
+.botao2{
+    margin-right: 20px !important;
+    background-color: rgb(200, 15, 15) !important;
+    color: white !important;
+}
+
+.botao1{
+    background-color: green !important;
+    color: white !important;
+
+}
+
+.background{
+    background-color: #B0D4A9 !important;
+}

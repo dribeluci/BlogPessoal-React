@@ -1,0 +1,31 @@
+.caixa{
+    background-image: url(https://wallpaperboat.com/wp-content/uploads/2019/09/alice-in-wonderland-art-1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
+
+.caixaTexto{
+    text-shadow: 0.1em 0.1em 0.2em black
+}
+
+.titulo{
+
+    color:white !important;
+    font-weight: bold !important;
+}
+
+.botao{
+    border-color: white !important; 
+    background-color: #e25c80 !important;
+    color: white !important; 
+}
+
+.postagens{
+    background-color: white;
+}
+
+.imagem3{
+    margin-left: 200px;
+}

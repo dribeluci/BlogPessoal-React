@@ -1,0 +1,22 @@
+.textos1{
+    font-weight: bold !important;
+}
+
+.imagem{
+    background-image: url(https://i.pinimg.com/originals/9e/8a/f8/9e8af894a2eceee2b6b9a43a316a6e29.jpg);
+    background-repeat: no-repeat; 
+    width: 100vh;
+    min-height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+
+.text-decorator-none{
+    text-decoration: none;
+}
+
+.botao1{
+    background-color: green !important;
+    color: white !important;
+
+}

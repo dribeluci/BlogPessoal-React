@@ -1,0 +1,12 @@
+.cursor{
+    cursor: pointer;
+    color: white
+}
+
+.text-decorator-none{
+    text-decoration: none;
+}
+
+.fundo1{
+    background-color: #c21845 !important;
+}
